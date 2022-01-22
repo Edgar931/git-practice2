@@ -2,3 +2,7 @@
     color:red;
     background-color: black;
 }
+.emphasis{
+    font-weight: 700;
+    text-transform: uppercase;
+}
